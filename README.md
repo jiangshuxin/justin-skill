@@ -65,4 +65,4 @@ Please keep skills domain-agnostic and free of proprietary business logic.
 
 ## 📄 License
 
-[MIT](LICENSE)
+[Apache License 2.0](LICENSE)
